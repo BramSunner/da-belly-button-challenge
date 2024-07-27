@@ -33,9 +33,9 @@ This will allow you to use the site to navigate the dataset.
 There is a selector to view all of the separate IDs summaries.
 
 # Resources
-Dataset used: 
-https://robdunnlab.com/projects/belly-button-biodiversity/
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0047712
+Dataset used:  
+https://robdunnlab.com/projects/belly-button-biodiversity/  
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0047712  
 
-Bootswatch theme:
-https://bootswatch.com/solar/
+Bootswatch theme:  
+https://bootswatch.com/solar/  
