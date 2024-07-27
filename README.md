@@ -28,7 +28,7 @@ Javascript.
 HTML.  
 
 # How to Use
-Navigate to the following URL in a browser: https://bramsunner.github.io/da-belly-button-challenge/submission/index.html
+Navigate to the following URL in a browser: https://bramsunner.github.io/da-belly-button-challenge/submission/index.html  
 This will allow you to use the site to navigate the dataset.
 There is a selector to view all of the separate IDs summaries.
 
